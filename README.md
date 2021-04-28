@@ -1,6 +1,6 @@
 # Capstone_Object_detection
 
-## To use this Repo, please run the files in the following order:
+## To use this Repo, please read through the  functions of files or folder in the following order:
 
     1. YOLOv4_Training_code.ipynb
       This notebook is used to train dataset to obtain model weight.
@@ -19,7 +19,10 @@
     
     6.yolov4_object_detection_webcam_images.ipynb
       This notebook is used to do YOLOv4 object detection on local webcam by using trained weight.
-
+      
+    7.sample_data folder
+      This folder include sample data we could use to test the model performance and a picture of website outlook.
+    
 
 Note: To run GitHub project, you may need to download several files in https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw. I strongly recommend you to visit my guideline website and follow the guideline to do object detection step by step.
 
