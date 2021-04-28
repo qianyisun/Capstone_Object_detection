@@ -25,6 +25,6 @@ Note: To run GitHub project, you may need to download several files in https://d
 
 The guideline website link: https://qianyisun.github.io/Yolov4_guideline.GitHub.io/
 
-![Image](image/website_outlook.png)
+![Image](sample_data/website_outlook.png)
     
     
