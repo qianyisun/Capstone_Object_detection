@@ -31,7 +31,7 @@ The guideline website link: https://qianyisun.github.io/Yolov4_guideline.GitHub.
 ![Image](sample_data/website_outlook.png)<br>
 
 
-Reference<br>
+##  Reference<br>
 Video reference below:<br>
 Train YOLOv3 Custom Object Detector with Darknet<br>
 YOLOv4 in the CLOUD: Build and Train Custom Object Detector<br>
