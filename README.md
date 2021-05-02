@@ -28,17 +28,17 @@ Note: To run GitHub project, you may need to download several files in https://d
 
 The guideline website link: https://qianyisun.github.io/Yolov4_guideline.GitHub.io/
 
-![Image](sample_data/website_outlook.png)
+![Image](sample_data/website_outlook.png)<br>
 
 
-Reference
-Video reference below:
-Train YOLOv3 Custom Object Detector with Darknet
-YOLOv4 in the CLOUD: Build and Train Custom Object Detector
-Real-time YOLOv4 Object Detection on Webcam in Google Colab
+Reference<br>
+Video reference below:<br>
+Train YOLOv3 Custom Object Detector with Darknet<br>
+YOLOv4 in the CLOUD: Build and Train Custom Object Detector<br>
+Real-time YOLOv4 Object Detection on Webcam in Google Colab<br>
 
-GitHub code Reference below:
-https://github.com/theAIGuysCode/OIDv4_ToolKit
-https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+GitHub code Reference below:<br>
+https://github.com/theAIGuysCode/OIDv4_ToolKit<br>
+https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial<br>
     
     
