@@ -24,7 +24,7 @@
       This folder include sample data we could use to test the model performance and a picture of website outlook.
     
 
-Note: To run GitHub project, you may need to download several files in https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw. 
+Note: To run GitHub project, you may need to download several files in https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw. <br>
 I strongly recommend you to visit my guideline website and follow the guideline to do object detection step by step.
 
 The guideline website link: https://qianyisun.github.io/Yolov4_guideline.GitHub.io/
